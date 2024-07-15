@@ -7,5 +7,5 @@ while n<0:
    n=n/10
 if a==n:
    print(‘palindrome’)
-else”
+else:
 print(‘Not a palindrome’)
